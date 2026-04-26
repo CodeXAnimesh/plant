@@ -1,5 +1,5 @@
-streamlit
+gradio
+tensorflow==2.13.0
 numpy
 pillow
 h5py
-tensorflow-cpu==2.13.0
